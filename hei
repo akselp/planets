@@ -1,0 +1,62 @@
+[33mcommit b2779e6928d9a9af7ed438341cd07adcba2a7476[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 19 09:39:58 2019 +0100
+
+    Wrote some thoughts about friends at mars.
+
+[33mcommit c651546019edd5ff8147ab2b0aa21633282a0d3f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 19 09:30:40 2019 +0100
+
+    Changed Mars.tx
+
+[33mcommit 9166a331d59733a80843f44b082d5be600062eff[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 19 09:30:09 2019 +0100
+
+    Changed Mars.tx
+
+[33mcommit 5825803e9d7836ef35a2dc5ce7067fd95c692ab1[m[33m ([m[1;32me6c9d2269d3247d2a27a82138ab2e1ded1b42855[m[33m)[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 10:26:00 2019 +0100
+
+    Revert "Added a comment about Titan"
+    reverted to e6c9d2269d3247d2a27a82138ab2e1ded1b42855
+    
+    This reverts commit e6c9d2269d3247d2a27a82138ab2e1ded1b42855.
+
+[33mcommit 4689f9396cb7b41a33905a0a587151a2d9818c27[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 10:15:06 2019 +0100
+
+    Wrote something about Saturns composition
+
+[33mcommit e6c9d2269d3247d2a27a82138ab2e1ded1b42855[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 09:58:48 2019 +0100
+
+    Added a comment about Titan
+
+[33mcommit 4a482d2ce34309ce43f38c57b9f097c539603d43[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 09:49:56 2019 +0100
+
+    Added a new planet.
+
+[33mcommit be9ce5534794ff4420c0f7cacb64b358e3bdf451[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 09:44:40 2019 +0100
+
+    Wrote concerns about living in Mars
+
+[33mcommit 3a83b87dbf29c4a7d9783dbb9a9c21283f1796ed[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 09:44:18 2019 +0100
+
+    Wrote concerns about living in Mars
+
+[33mcommit 53ab83831412bdc5d414652d2d9482cc7554a8b7[m
+Author: user.email <akselpettersen@haugnett.no>
+Date:   Tue Feb 5 09:34:11 2019 +0100
+
+    Wrote something about the color of Mars
